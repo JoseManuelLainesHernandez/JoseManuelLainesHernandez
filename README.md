@@ -81,37 +81,99 @@ I have built projects for restaurants, hotels, schools, transportation services,
 
 ## Core Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+### Frontend & UI/UX
 
-### Backend & APIs
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat-square&logo=javascript&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-Manipulation-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Data, Cloud & Infra
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+### Backend, APIs & Cloud
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Base64](https://img.shields.io/badge/Base64-555555?style=flat-square&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=flat-square&logo=formspree&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Databases & Data Storage
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase Realtime Database](https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase DB](https://img.shields.io/badge/Supabase_DB-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-005A9C?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Mobile, Offline & Hybrid Apps
+### Mobile, Desktop & Hybrid Apps
+
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin_Forms-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 ![Apache Cordova](https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=progressivewebapps&logoColor=white)
+![Ionic Capacitor](https://img.shields.io/badge/Ionic_Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Service Workers](https://img.shields.io/badge/Service_Workers-FF6F00?style=flat-square&logo=googlechrome&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white)
 
-### Immersive Tech
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+### 3D, AR, VR & Gaming
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Vuforia](https://img.shields.io/badge/Vuforia-5C2D91?style=flat-square&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square&logo=aframe&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![AR](https://img.shields.io/badge/Augmented_Reality-8A2BE2?style=flat-square&logoColor=white)
+![VR](https://img.shields.io/badge/Virtual_Reality-5A0FC8?style=flat-square&logoColor=white)
+
+### DevOps, Development & Collaboration Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat-square&logo=google&logoColor=white)
+
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python_AI-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Architecture, Methodologies & Engineering
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat-square&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-607D8B?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-02569B?style=flat-square&logoColor=white)
+![SPA](https://img.shields.io/badge/SPA-Single_Page_Applications-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Client Server](https://img.shields.io/badge/Architecture-Client--Server-512BD4?style=flat-square&logoColor=white)
+![REST](https://img.shields.io/badge/Architecture-REST-009688?style=flat-square&logoColor=white)
 
 ---
 
