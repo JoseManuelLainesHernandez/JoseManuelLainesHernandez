@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-4.5+%20Years-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/English-A1%20Intermediate-green?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English A1" />
+  <img src="https://img.shields.io/badge/English-A1%20Intermediate-green?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English C1" />
   <img src="https://img.shields.io/badge/Location-Tabasco%2C%20Mexico-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
